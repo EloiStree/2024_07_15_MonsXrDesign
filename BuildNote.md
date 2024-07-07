@@ -87,8 +87,21 @@ Pitch Game in gamejam:
 - 24H :https://youtu.be/j8wZONpEMIk?t=843
 
 
-Matrix VR: 
+Matrix VR et Plane:
+- Planes: https://youtu.be/rKz9UA-5LQQ
+[![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/8732fc46-ddaf-4d4c-83ba-6d3a97b5bd8b)](https://youtu.be/rKz9UA-5LQQ)
+https://youtu.be/rKz9UA-5LQQ
+[![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/e25bca2a-2a20-475e-8a8e-3c81bf58b1e0)](https://youtu.be/sdr0_kGMbAw)
+https://youtu.be/sdr0_kGMbAw
+
 https://youtu.be/VggCMmBZTK0?t=99
+
+
+
+Savoir appréhender un jam par Arnaud: 
+[![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/03c6c800-40b3-4f5e-bc29-de3be5acfef0)](https://youtu.be/eijICSaOKg0)
+
+
 
 
 
