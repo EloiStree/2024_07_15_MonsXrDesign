@@ -104,7 +104,9 @@ Savoir appréhender un jam par Arnaud:
 
 
 
-
+Utiliser la VR pour la visualisation dans l'architecture:  
+[![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/6953e571-e1e6-49d9-9153-ab74936b4e1c)](https://youtu.be/qC3UC1z_lOs)   
+https://youtu.be/qC3UC1z_lOs    
 
 
 
