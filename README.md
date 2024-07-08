@@ -14,6 +14,9 @@ Durant ces trois jours, nous allons voir :
 - No Code Git
   - Git c'est la vie
 
+Nous allons travailler en commun ici:
+https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
+
 -------------------
 Note : le nombre de dingueries que je vois passer sur cette chaîne LinkedIn.  
 https://www.linkedin.com/company/hitmarker/posts/
