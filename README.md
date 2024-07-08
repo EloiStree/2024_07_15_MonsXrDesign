@@ -13,3 +13,9 @@ Durant c'est trois jour, nous allons voir:
   - Un bon moment ( ^_^)
 - No code Git
   - Git c'est la vie
+
+
+
+-------------------
+Note: le nombre de dinguerie que je vois passer sur cet chaine LinkedIn.  
+https://www.linkedin.com/company/hitmarker/posts/ 
