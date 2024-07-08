@@ -3,8 +3,6 @@
 Salut à tous, j'ai 3 jours pour vous partager mes deux passions liées à ma profession de magicien des temps modernes : la XR et les jams.
 
 Durant ces trois jours, nous allons voir :
-- Standards abstraits de la XR
-  - Contre la jungle native
 - Quest 3 Market
   - Des millions contre 500 utilisateurs
 - Past to Present
@@ -12,7 +10,7 @@ Durant ces trois jours, nous allons voir :
 - Gamejam et hackathon
   - Un bon moment ( ^_^)
 - No Code Git
-  - Git c'est la vie
+  - Git, c'est la vie
 
 Nous allons travailler en commun ici:
 https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
