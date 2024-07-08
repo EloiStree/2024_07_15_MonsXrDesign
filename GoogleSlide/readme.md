@@ -12,3 +12,8 @@ https://docs.google.com/presentation/d/1SM5dUfZiuRSCzcTuJas1mQhlMGHTHtjXFniVYb8h
 https://docs.google.com/presentation/d/1gVUTYY_wAOZR6TF3pnw4wGh7BjlUdNuoikgcT9Yvt24/edit#slide=id.g5ef9ce29df_0_235
 
 https://docs.google.com/presentation/d/1X9EGTp2brfUrhXHbxRmtjNG-ZmBA3ZfKqmobidP_fgU/edit#slide=id.g191ad27d25_3_10
+
+
+
+- https://github.com/EloiStree/2024_03_22_TechGoesWild
+  - https://docs.google.com/presentation/d/e/2PACX-1vSGxyUsLmLiIEdPtboKty9WVjO1XojCvxGWo33keL_kOCLOkxnccqTuQmFSvb7_s5Czp81La7BfOVIZ/pub?start=true&loop=false&delayms=10000&slide=id.g5ef9ce29df_0_145
