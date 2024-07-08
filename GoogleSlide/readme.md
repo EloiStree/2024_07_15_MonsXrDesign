@@ -17,3 +17,15 @@ https://docs.google.com/presentation/d/1X9EGTp2brfUrhXHbxRmtjNG-ZmBA3ZfKqmobidP_
 
 - https://github.com/EloiStree/2024_03_22_TechGoesWild
   - https://docs.google.com/presentation/d/e/2PACX-1vSGxyUsLmLiIEdPtboKty9WVjO1XojCvxGWo33keL_kOCLOkxnccqTuQmFSvb7_s5Czp81La7BfOVIZ/pub?start=true&loop=false&delayms=10000&slide=id.g5ef9ce29df_0_145
+
+
+
+https://youtu.be/aPmOsmXPwO8
+https://youtu.be/Beh_7qk07g4
+https://youtu.be/U9S-ZaEGnUA
+https://youtu.be/uWSJLipNuVA
+https://youtu.be/2ZQK7VE54EM
+https://youtu.be/GNRwfRX2E3A
+https://youtu.be/b-UFftiP2U8
+https://youtu.be/fOa0O9Mb7RM
+https://youtu.be/3sJOas3eTMo
