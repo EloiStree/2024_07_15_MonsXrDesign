@@ -1,0 +1,29 @@
+{
+  "name": "be.company.sujet",
+  "version": "1.0.0",
+  "displayName": "Un titre",
+  "description": "Une description de l'outils",
+  "unity": "2020.3",
+  "keywords": [
+    "tools",
+    "unity"
+  ],
+  "author": {
+    "name": "Your Company Name",
+    "email": "support@yourcompany.com",
+    "url": "https://www.yourcompany.com"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "samples": [
+    {
+      "displayName": "Scène d'example",
+      "description": "Une petit scène d'example",
+      "path": "Samples~/DefaultDemo"
+    }
+  ]
+}
