@@ -34,3 +34,9 @@ https://ethglobal.com/events/brussels/prizes
 Privy:  
 [![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/ea7e983b-3cc8-4bd7-9513-571b23a60e7d)](https://youtu.be/2iCWKSmV5FQ)  
 https://youtu.be/2iCWKSmV5FQ  
+
+
+
+We3 auth:
+[![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/03ab9268-8ba2-4042-882c-fd0d839dd292)](https://youtu.be/-yQpYn0ZAh4)
+https://youtu.be/-yQpYn0ZAh4
