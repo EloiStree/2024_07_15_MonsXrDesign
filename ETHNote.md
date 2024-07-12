@@ -1,3 +1,7 @@
+
+
+
+
 ETH Global: https://www.youtube.com/@ETHGlobal/playlists
 Find a team member: https://ethglobal.com/events/brussels/find-team-members
 Past projects: https://x.com/ETHGlobal/status/1787026754630295566
@@ -40,3 +44,23 @@ https://youtu.be/2iCWKSmV5FQ
 We3 auth:
 [![image](https://github.com/EloiStree/2024_07_16_MonsXrDesign/assets/20149493/03ab9268-8ba2-4042-882c-fd0d839dd292)](https://youtu.be/-yQpYn0ZAh4)
 https://youtu.be/-yQpYn0ZAh4
+
+
+
+
+Some Questions to Expect
+Explain the motivation behind your project
+What types of tools did you use, and why?
+What was your inspiration?
+Judging criteria
+Each project will be ranked by our judges on the following 5 categories:
+
+Technicality - What is the complexity of problem being addressed, or their approach to solving it?
+
+Originality - Is the project tackling a new or unsolved problem, or creating unique/creative solution to an existing problem?
+
+Practicality - How complete/functional is the project? Is it ready to be used by their intended audience?
+
+Usability (UI/UX/DX) - Is the project easy to use? Has the team made good effort in removing friction for the user?
+
+WOW factor - Catch-all for other factors the previous categories may have missed
