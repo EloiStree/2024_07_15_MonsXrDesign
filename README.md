@@ -18,13 +18,11 @@ Et nous allons pratiqué:
 
 
 -Exercice:
-- 16: Apprendre Git en ligne dans le context de travail de groupe sur la XR
-- 17: Apprendre Git sur Application pour créé des boites à outil pour vos collègues
-- 18: Apprendre à Pitcher un projet XR pour demander de l'aide
+- 16: [Apprendre Git en ligne dans le context de travail de groupe sur la XR](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_16.md)
+- 17: [Apprendre Git sur Application pour créé des boites à outil pour vos collègues](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_17.md)
+- 18: [Apprendre à Pitcher un projet XR pour demander de l'aide](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_18.md)
 
-Nous allons travailler en commun ici:
-https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
+Nous allons travailler en commun ici:  
+https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork  
 
--------------------
-Note : le nombre de dingueries que je vois passer sur cette chaîne LinkedIn.  
-https://www.linkedin.com/company/hitmarker/posts/
+
