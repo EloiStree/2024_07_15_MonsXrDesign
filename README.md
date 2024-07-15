@@ -12,6 +12,11 @@ Durant ces trois jours, nous allons voir :
 - No Code Git
   - Git, c'est la vie
 
+-Exercice:
+- 16: Apprendre Git en ligne dans le context de travail de groupe sur la XR
+- 17: Apprendre Git sur Application pour créé des boites à outil pour vos collègues
+- 18: Apprendre à Pitcher un projet XR pour demander de l'aide
+
 Nous allons travailler en commun ici:
 https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
 
