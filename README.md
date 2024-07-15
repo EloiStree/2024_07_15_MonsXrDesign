@@ -2,15 +2,20 @@
 
 Salut à tous, j'ai 3 jours pour vous partager mes deux passions liées à ma profession de magicien des temps modernes : la XR et les jams.
 
-Durant ces trois jours, nous allons voir :
+Durant ces trois jours, nous allons parler de :
 - Quest 3 Market
   - Des millions contre 500 utilisateurs
 - Past to Present
   - De la jungle à des standards
 - Gamejam et hackathon
   - Un bon moment ( ^_^)
-- No Code Git
+
+Et nous allons pratiqué:
+-  No Code Git
   - Git, c'est la vie
+- Faire des boites à outils dans Unity3D
+- Pitcher un projet
+
 
 -Exercice:
 - 16: Apprendre Git en ligne dans le context de travail de groupe sur la XR
