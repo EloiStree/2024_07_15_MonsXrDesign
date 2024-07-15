@@ -5,6 +5,7 @@ Salut à tous, j'ai 3 jours pour vous partager mes deux passions liées à ma pr
 Durant ces trois jours, nous allons parler de :
 - Quest 3 Market
   - Des millions contre 500 utilisateurs
+  - 500 vs 1-20 utilisateurs
 - Past to Present
   - De la jungle à des standards
 - Gamejam et hackathon
