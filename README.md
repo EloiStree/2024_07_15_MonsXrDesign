@@ -1,3 +1,7 @@
+- Notre Project: https://github.com/EloiStree/2024_07_17_MonsNotreBeauCubeProject
+- Notre fork: https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork  
+
+
 # Mons XR Initiation
 
 Salut à tous, j'ai 3 jours pour vous partager mes deux passions liées à ma profession de magicien des temps modernes : la XR et les jams.
