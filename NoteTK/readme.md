@@ -10,3 +10,12 @@
 - Gravity Sketch
   - https://www.meta.com/fr-fr/experiences/1587090851394426/ 
   - https://www.youtube.com/watch?v=Q08knbCM23I 
+
+
+Pitch importance meeting:
+- Gamescom
+- Brotaru
+- Meet & Build
+- Hackathon
+- GameJam outside belgium
+- Random place: Street, Metro , Auberge
