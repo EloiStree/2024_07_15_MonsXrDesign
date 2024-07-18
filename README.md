@@ -15,12 +15,6 @@ Durant ces trois jours, nous allons parler de :
 - Gamejam et hackathon
   - Un bon moment ( ^_^)
 
-Et nous allons pratiqué:
--  No Code Git
-  - Git, c'est la vie
-- Faire des boites à outils dans Unity3D
-- Pitcher un projet
-
 
 Exercices:
 - 16: [Apprendre Git en ligne dans le context de travail de groupe sur la XR](https://github.com/EloiStree/2024_07_16_MonsXrDesign/blob/main/2024_07_16.md)
@@ -29,5 +23,7 @@ Exercices:
 
 Nous allons travailler en commun ici:  
 https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork  
+
+
 
 
