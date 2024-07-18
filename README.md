@@ -1,4 +1,4 @@
-- Notre Project: https://github.com/EloiStree/2024_07_17_MonsNotreBeauCubeProject
+- Notre project: https://github.com/EloiStree/2024_07_17_MonsNotreBeauCubeProject
 - Notre fork: https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork  
 
 
