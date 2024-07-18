@@ -26,4 +26,8 @@ https://github.com/EloiStree/2024_07_16_MonsXrDesignGroupFork
 
 
 
+Youtube Video:
+- [Mons XR July 2024](https://www.youtube.com/@EloiTeaching/search?query=Mons%20XR%20July%202024)
+- [Relecture](https://www.youtube.com/@EloiTeaching/search?query=relecture)
+
 
